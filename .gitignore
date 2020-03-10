@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.ipynb_checkpoints
+.RDataTmp
+.Rhistory
+.Rproj.user
+data/
+project.Rproj
