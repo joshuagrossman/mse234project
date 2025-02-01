@@ -2,7 +2,7 @@ import requests
 import jsonlines
 import time
 
-API_KEY = "5H7nYNEhMUt3gVwkIwQYaRu7GW9s9xXz"
+API_KEY = "REDACTED"
 
 with jsonlines.open("data/ny-times-data.jsonl", "w") as writer:
     for year in range(2010, 2021, 1):
